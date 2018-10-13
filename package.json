@@ -16,7 +16,7 @@
     "url": "https://github.com/apigee-127/swagger-express.git"
   },
   "dependencies": {
-    "@chezearth/swagger-node-runner": "^0.7.4"
+    "@chezearth/swagger-node-runner": "^0.7.4-1"
   },
   "devDependencies": {
     "lodash": "^4.17.11",
